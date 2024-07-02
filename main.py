@@ -18,8 +18,8 @@ green = pygame.Color(0, 255, 0)
 blue = pygame.Color(0, 0, 255)
 
 # Global_Constants
-SCREEN_HEIGHT = 300
-SCREEN_WIDTH = 300
+SCREEN_HEIGHT = 500
+SCREEN_WIDTH = 500
 BLOCK_SIZE = 10
 SCREEN = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 
